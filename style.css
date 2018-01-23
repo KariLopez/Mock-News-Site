@@ -1,0 +1,88 @@
+.top *{
+    display: inline;
+}
+.top .brand{
+    background-color: black;
+    color:white;
+    border: 1px solid black;
+}
+.top p{
+    border-right: 1px solid black;
+    padding-right: 4px;
+}
+.top form{
+    border-left-color: #7A706E; 
+}
+.redBar{
+    background-color:#77091f;
+    color:white;
+    width: 100%; 
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+.redBar h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.redBar form{
+    position: absolute;
+    right:0px;
+    top:0px;
+    padding-top: 30px;
+    padding-right: 15px;
+}
+.newsNav{
+    background-color: #77091f;
+    color:white;
+    text-align: center;
+    width: 100%;
+}
+.newsNav p{
+    border-right: 1px solid black;
+    display: inline;
+    margin: 8px;
+    padding-right: 4px;
+}
+h2{
+    margin: 10px;
+}
+.mainContent{
+    width: 80%;
+    position: relative;
+    margin: 10px;  
+    float: left;
+    height:100%;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #77091f;
+}
+.mainContent img{
+    float: right;
+    margin-top: -170px;
+}
+.related{
+    position: relative;
+    height:100%;
+}
+.related h3{
+    text-align: center;
+}
+.related img{
+        display: block;
+        padding: 30px;
+        margin: 0px;
+}
+.related p{
+    position: relative;
+    float: right;
+    margin-top:-80px;
+}
+
+
+
